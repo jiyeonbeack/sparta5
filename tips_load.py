@@ -5,6 +5,7 @@ def get_tips():
     return tips
 
 def print_get():
+    print("test file")
     return "일어나세요 용사여"
 
 if __name__ == "__main__":
